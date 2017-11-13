@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void testMethod() {
         //Tjena boys
+        //Funkar det?
     }
 
     public void testearen(){
@@ -22,4 +23,5 @@ public class MainActivity extends AppCompatActivity {
     public void knapee (){
         int knape = 0;
     }
+
 }
