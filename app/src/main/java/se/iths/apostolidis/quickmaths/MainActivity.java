@@ -15,13 +15,7 @@ public class MainActivity extends AppCompatActivity {
         //Tjena boys
     }
 
-
-
-
-
-
-
-    public void knape (){
-        int knape = 0;
+    public void testearen(){
+        //knape är vacker
     }
 }
