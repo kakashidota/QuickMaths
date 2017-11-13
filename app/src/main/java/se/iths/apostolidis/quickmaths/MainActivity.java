@@ -14,4 +14,8 @@ public class MainActivity extends AppCompatActivity {
     public void testMethod() {
         //Tjena boys
     }
+
+    public void testearen(){
+        //knape är vacker
+    }
 }
