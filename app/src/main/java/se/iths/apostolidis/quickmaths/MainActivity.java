@@ -14,4 +14,14 @@ public class MainActivity extends AppCompatActivity {
     public void testMethod() {
         //Tjena boys
     }
+
+
+
+
+
+
+
+    public void knape (){
+        int knape = 0;
+    }
 }
